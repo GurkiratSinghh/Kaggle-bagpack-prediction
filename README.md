@@ -46,5 +46,4 @@ The competition provides an interesting and approachable dataset, allowing the K
 ## Authors
 
 - **Gurkirat**
-- **Japjot**
-- **Hardik**
+
